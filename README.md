@@ -47,7 +47,7 @@ A unified fee-management application concept for online and offline payments, wi
 
 ## 💼 Experience
 
-**GenAI & Machine Learning Intern · KACETI · 2025**
+**GenAI & Machine Learning Intern · KACTII · 2025**
 
 - Worked on a salary-prediction project using machine learning and generative AI.
 - Explored job role, experience, skills, and related factors influencing salary predictions.
