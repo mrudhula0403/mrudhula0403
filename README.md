@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Mrudhula D.</h1>
-<p align="center"><strong>M.Sc. Data Science student · Applied ML, NLP & GenAI</strong></p>
+<p align="center"><strong>M.Sc. Data Science student </strong></p>
 <p align="center">I enjoy turning data and machine learning ideas into useful, explainable applications.</p>
 
 ## About me
