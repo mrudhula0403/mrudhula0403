@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing an integrated **M.Sc. in Data Science** at Coimbatore Institute of Technology (CIT).
-- 🤖 GenAI & Machine Learning Intern at **KACETI** (2025), working on predictive salary analytics and explainable career insights.
+- 🤖 GenAI & Machine Learning Intern at **KACTII** (2025), working on predictive salary analytics and explainable career insights.
 - 🔬 Interested in applied machine learning, explainable AI, computer vision, quantitative analysis, and AI-enabled products.
 - 🧩 I enjoy combining analytical problem-solving with backend and application development.
 
